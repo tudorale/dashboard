@@ -1,9 +1,14 @@
 # Dashboard
 This application is a dashboard for a non-existing company, it contains several pages:
+
 -Dashboard
+
 -Customers
+
 -Statistics
+
 -Employees
+
 -Tasks
 
 The application was made in React JS using react-router and react-helmet.
