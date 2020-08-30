@@ -13,10 +13,7 @@ import Workers from "./components/Workers";
 function App() {
   const user = useContext(StatusContext);
   return (
-    <Router
-      basename={process.env.PUBLIC_URL}
-      path={process.env.PUBLIC_URL + "/"}
-    >
+    <Router basename={process.env.PUBLIC_URL}>
       <Route path="/" exact component={Login} />
       <Route path="/home">
         {user.admin === true && <Dashboard />}
