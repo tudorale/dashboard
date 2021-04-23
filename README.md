@@ -19,4 +19,4 @@ You can see the application here: https://tudorale.github.io/dashboard/
 
 # Author
 
-Portfolio: https://tudoralexandru.netlify.app/
+Portfolio: https://tudorale.github.io/portfolio/
